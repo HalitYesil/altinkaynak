@@ -32,3 +32,4 @@ Instantly selected exchange rate, gold rate and parity information
 ```php
   var_dump($Altinkaynak->GetMain());
 ```
+[link More Details]https://halityesil.com/php/php-ile-altinkaynak-doviz-kuru-cekmek/
