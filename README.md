@@ -13,21 +13,21 @@ $Altinkaynak = new Altinkaynak();
 ```
 
 ## GetCurrency
-### Instant exchange rate information
+Instant exchange rate information
 
 ```php
   var_dump($Altinkaynak->GetCurrency());
 ```
 
 ## GetGold
-### Instant gold rate information
+Instant gold rate information
 
 ```php
   var_dump($Altinkaynak->GetGold());
 ```
 
 ## GetMain
-### Instantly selected exchange rate, gold rate and parity information
+Instantly selected exchange rate, gold rate and parity information
 
 ```php
   var_dump($Altinkaynak->GetMain());
